@@ -1,6 +1,7 @@
 <!-- Enhanced Data Analyst GitHub Profile README -->
 <!-- Created for: Prasanna Kumar Boddepalli -->
-![logo](https://github.com/prasanna858/MyProfile/blob/main/Prasanna%20Linkedin.png)
+![logo](https://github.com/prasanna858/prasanna858/blob/main/Prasanna%20Linkedin.png)
+
 <div align="center">
 
 # 🧠 Prasanna Kumar Boddepalli  
