@@ -70,7 +70,7 @@
 
 ---
 
-### 💞 Couple Motion Background  
+### 💞 Okay Motion Background  
 *(Replacing the old “Fun Analytics Motion Background”)*  
 
 <p align="center">
